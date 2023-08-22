@@ -218,7 +218,7 @@
 					<c:choose>
 						<c:when test="${pi.currentPage eq pi.maxPage}">
 							<li class="page-item disabled">
-								<a class="page-link">다음페이지</a>
+								<a class="page-link">다음</a>
 							</li>
 						</c:when>
 						<c:otherwise>
